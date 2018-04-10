@@ -9,7 +9,7 @@
   },
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha && eslint lib/ test/"
+    "test": "mocha test/*.js"
   },
   "author": "Alisdair McDiarmid <alisdair@mcdiarmid.org>",
   "license": "MIT",
